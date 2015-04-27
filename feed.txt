@@ -1,0 +1,7 @@
+/home/nlp/corpus_wei/europarl_clean_1-9000.en
+en
+9000
+2
+7
+1
+20
